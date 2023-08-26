@@ -13,6 +13,13 @@ const StopName = "stop_en"
 // lucene-4.7.2/analysis/common/src/resources/org/apache/lucene/analysis/snowball/
 // ` was changed to ' to allow for literal string
 var EnglishStopWords = []byte(` | From svn.tartarus.org/snowball/trunk/website/algorithms/english/stop.txt
+的
+得
+我
+和
+你
+中
+国
  | This file is distributed under the BSD License.
  | See http://snowball.tartarus.org/license.php
  | Also see http://www.opensource.org/licenses/bsd-license.html
